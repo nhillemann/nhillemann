@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Normix Hillemann!
-- 👀 I’m interested in coding, politics (especially LGBTIQA+ rights and feminism), literature, computer games and media.
-- 🌱 I’m currently learning practical skills for current and future coding projects and working with GitHub.
+- 👀 I’m interested in coding, politics, literature, medicine and media.
+- 🌱 I’m currently learning about ethical AI und dialogue systems.
 - 💞️ I’m looking to collaborate on projects which fit my interests.
 - 📫 How to reach me: nhi @keybase! 
 
