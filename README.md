@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Normix!
 - 👀 I’m interested in coding, politics, literature, medicine and more.
-- 🌱 Currently working on my master thesis (a comparative study about NLP techniques for summarizing & topic matching in patient-chatbot interactions)
-- 💞️ I’m looking for cool projects and a junior position as data scientist.
+- 🌱 Currently working on my outlines for my next project about plain language (Einfache Sprache).
+- 💞️ I’m looking for cool projects and a junior position as data scientist, LLM engineer or AI engineer.
 - 📫 How to reach me: normix.hillemann[at]stud.uni-bamberg.de 
 
 <!---
